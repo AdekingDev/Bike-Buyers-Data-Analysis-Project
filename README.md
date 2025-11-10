@@ -61,11 +61,11 @@ Without this knowledge, marketing campaigns and sales strategies remain broad an
 
 - Visualized insights using Pie, Bar, Column, and Line charts.
 
-- Built Key Performance Indicators (KPIs) for total customers, purchase rate, and averages.
+- Built Key Performance Indicators (KPIs) for total income, purchase rate, and averages.
 
 ### Dashboard Design
 
-- Blue–Green professional theme for business readability.
+- Professional theme for business readability.
 
 - Interactive slicers for filtering by Gender, Region, and Education.
 
@@ -83,7 +83,7 @@ Line: Cars vs. Purchase %
 ### Data Analysis Skills
 - Data Cleaning
 
-- Data Aggregation (AVERAGEIFS, COUNTIFS, MODEIFS)
+- Data Aggregation (AVERAGEIFS, COUNTIFS)
 
 - Descriptive Statistics (Mean, Median, Mode)
 
@@ -94,13 +94,13 @@ Line: Cars vs. Purchase %
 ### Tools & Technologies
 - Microsoft Excel – main analysis and visualization
 
-- Formulas – AVERAGEIFS, COUNTIFS, MODEIFS, IFERROR, etc.
+- Formulas – AVERAGEIFS, COUNTIFS etc.
 
 - PivotTables – summarizing and grouping data
 
 - Charts – Pie, Bar, Column, and Line
 
-- Optional Extensions: Python, SQL (for future scalability)
+- Optional Extensions:SQL (for future scalability)
 
 ## Results & Business Recommendations
 ### Key Findings:
