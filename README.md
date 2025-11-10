@@ -112,6 +112,7 @@ Line: Cars vs. Purchase %
 - Most buyers hold a Bachelor’s degree.
 
 - The Pacific region shows the highest bike purchases.
+![image alt](https://github.com/AdekingDev/Bike-Buyers-Data-Analysis-Project/blob/7ceb6fcbed7b9af440c5ef0781d8649f8c1e10d9/Screenshot%202025-11-10%20at%2014.09.02.png?raw=true)
 
 - Car ownership inversely affects bike purchases — fewer cars → more bikes.
 
