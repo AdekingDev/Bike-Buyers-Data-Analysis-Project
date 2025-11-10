@@ -106,6 +106,7 @@ Line: Cars vs. Purchase %
 ### Key Findings:
 
 - Majority of bike buyers are Females with 49% rate.
+ ![image alt](https://github.com/AdekingDev/Bike-Buyers-Data-Analysis-Project/blob/18ed688b2f5fc544a9bc0fb9652ff3bd9daf1d9b/Screenshot%202025-11-10%20at%2014.08.00.png?raw=true)
 
 - Average buyer income: ≈ $57,962.
 
